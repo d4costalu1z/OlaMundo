@@ -10,5 +10,5 @@ Var
 
 Inicio
 escreval("Olá Mundo!")
-
+escreval("Bom dia prof Tales!")
 Fimalgoritmo
